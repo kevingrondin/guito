@@ -26,5 +26,16 @@
     "lib": "lib"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Un outil pour les dev pour qu'ils puissent creer des depots public ou privée sur Github\r sans taper de ligne de commande.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevingrondin/guito.git"
+  },
+  "keywords": [
+    "guithub"
+  ],
+  "bugs": {
+    "url": "https://github.com/kevingrondin/guito/issues"
+  },
+  "homepage": "https://github.com/kevingrondin/guito#readme"
 }
