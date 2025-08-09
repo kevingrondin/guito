@@ -16,7 +16,7 @@
     "commander": "^3.0.1",
     "configstore": "^5.0.0",
     "figlet": "^1.2.4",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.2.7",
     "lodash": "^4.17.15",
     "minimist": "^1.2.0",
     "simple-git": "^1.126.0",
